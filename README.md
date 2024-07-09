@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="./img.jpeg" alt="Profile Image" style="width:150px;height:45px;">
+      <img src="./IMG_20231021_185752036.jpg" alt="Profile Image" style="width:150px;height:45px;">
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
       <span style="font-size: 24px; font-weight: bold;">Krishna Kumar</span>
