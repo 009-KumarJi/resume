@@ -4,7 +4,7 @@
       <img src="./IMG_20231021_185752036.jpg" alt="Profile Image" style="width:45px;height:60px;">
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
-      <span style="font-size: 24px; font-weight: bold;">Krishna Kumar</span>
+      <span style="font-size: 24px; font-weight: bold;"><h1>Krishna Kumar</h1></span>
     </td>
   </tr>
 </table>
