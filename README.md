@@ -61,7 +61,7 @@
   - **Authentication:** Integrated authentication features using JWT to secure user sessions.
   - **Database Optimization:** Optimized database queries for faster retrieval of messages and user data.
   - **Deployment:** Deployed the application using Vercel and Render, ensuring high availability and scalability.
-  - **Tech Stack:** ReactJS, Node.js, MongoDB, Socket.IO.
+  - **Tech Stack:** MaterialUI with ReactJS, Expressjs with Node.js, MongoDB, Socket.IO.
 
 ### [Inventory Management](https://github.com/009-KumarJi/inventory-management)
 - **Description:** Designed a Python-based inventory management system to streamline inventory control:
