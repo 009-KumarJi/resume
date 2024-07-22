@@ -6,7 +6,7 @@
 - 📞 Phone: +919755296678
 - 📧 Email: [krishna902kumar@gmail.com](mailto:krishna902kumar@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/krishna-kumar-975b25186)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/009-kumarji)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/009-KumarJi)
 
 ---
 
@@ -48,28 +48,37 @@
 - **OS Command Line Familiarity:** 
   - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-- **APIs:** 
-  - ![REST](https://img.shields.io/badge/-REST-005571?style=flat&logo=rest&logoColor=white)
-  - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 ### [NoviConnect-ChatApp](https://github.com/009-KumarJi/NoviConnect) 
 - **Deployed Demo:** [NoviConnect Client](https://noviconnect-client.vercel.app/)
-- **Description:** Developed a dynamic chat application (NoviConnect) to facilitate seamless communication with features designed to enhance user experience:
-  - **Real-time Messaging:** Implemented a robust messaging system using Socket.IO to ensure messages update instantaneously, fostering a natural flow of conversation.
-  - **Group Chat Functionality:** Empowered users to connect with multiple individuals by enabling the creation and joining of group chats.
-  - **User Online Status:** Incorporated user online badges to provide real-time visibility into user availability.
-  - **Deployment:** Deployed using Vercel (for client-side deployment) and Render (for server-side deployment).
-  - **Tech Stack:** ReactJS with Material UI, Node.js with Express.js, MongoDB, Socket.IO.
+- **Description:** Developed a dynamic chat application to facilitate seamless communication with features designed to enhance user experience:
+  - **Real-time Messaging:** Implemented a robust messaging system using Socket.IO for efficient data exchange.
+  - **User Interface Design:** Designed an intuitive user interface with Material-UI, enhancing user engagement.
+  - **Group Chat Functionality:** Added group chat functionality and user online status badges to improve interaction.
+  - **Authentication:** Integrated authentication features using JWT to secure user sessions.
+  - **Database Optimization:** Optimized database queries for faster retrieval of messages and user data.
+  - **Deployment:** Deployed the application using Vercel and Render, ensuring high availability and scalability.
+  - **Tech Stack:** ReactJS, Node.js, MongoDB, Socket.IO.
 
 ### [Inventory Management](https://github.com/009-KumarJi/inventory-management)
-- **Description:** Designed a Python-based, three-tier inventory management system to streamline inventory control of a general store and optimize operational efficiency:
-  - **Comprehensive Product Management:** Facilitated efficient product handling with functionalities to add, remove, and modify product information within the system, ensuring accurate inventory data.
-  - **Database Management:** Utilized MySQL as the backend database to maintain product information, order details, and other critical inventory data.
-  - **Intuitive User Interface:** Developed a user-friendly interface leveraging HTML, CSS (Bootstrap) for a visually appealing and easy-to-navigate experience.
-  - **Tech Stack:** Python (Flask framework), MySQL, HTML, CSS (Bootstrap).
+- **Description:** Designed a Python-based inventory management system to streamline inventory control:
+  - **Product Management:** Enabled product handling and data management with MySQL.
+  - **User Interface:** Developed a user-friendly interface using Bootstrap.
+  - **Tech Stack:** Python (Flask), MySQL, HTML, CSS.
+
+---
+
+## 🛠️ Work Experience
+### JAMstack Developer Intern
+- **Company:** WeFrameTech
+- **Location:** Remote
+- **Duration:** June 2024 - July 2024
+- **Key Responsibilities:**
+  - Learned and worked with headless CMS like Directus and MedusaJS.
+  - Integrated CMS using APIs and Node.js to enhance website functionality and performance.
 
 ---
 
@@ -77,8 +86,7 @@
 - **Sponsorship Coordinator:** FeedBox Club (Mar 2023 - Present)
 - **Sponsorship Head Coordinator and Core Member:** Invento - Tech Fest IET DAVV 2K23
 - **Event and Sponsorship Coordinator:** TEDxDAVV 2K23
+- **Event Coordinator:** ISC-sports carnival 2024 - Badminton
 - **Member:** GDSC Club
 - **Technical Team Member:** EWB-India, IET Student Chapter (Feb 2023 - Present)
-- **Event Coordinator:** ISC-sports carnival 2024 - Badminton
 - **Achievement:** Selected for round 2 in Smart India Hackathon
-
