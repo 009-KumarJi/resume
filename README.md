@@ -72,8 +72,13 @@
 ---
 
 ## 🛠️ Work Experience
+### Full Stack Developer Intern
+- **Company:** [Envint Global](https://envintglobal.com/)
+- **Location:** Remote
+- **Duration:** August 2024 - Current
+
 ### JAMstack Developer Intern
-- **Company:** WeFrameTech
+- **Company:** [WeFrameTech](https://www.weframetech.com/)
 - **Location:** Remote
 - **Duration:** June 2024 - July 2024
 - **Key Responsibilities:**
