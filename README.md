@@ -14,13 +14,59 @@
 ### Institute of Engineering & Technology, Devi Ahilya Vishwavidyalaya
 - **Location:** Indore, MP, India
 - **Degree:** Bachelors of Engineering
-- **CGPA:** 7.2
+- **CGPA:** 7.26
 - **Duration:** Oct 2021 - May 2025
 
 ### DAV ACC Public School
 - **Location:** Katni, MP, India
 - **HSC:** 81% (Oct 2020)
 - **SSC:** 86% (Apr 2018)
+
+---
+
+## 🛠️ Work Experience
+### Full Stack Developer Intern
+- **Company:** [Envint Global](https://envintglobal.com/)
+- **Location:** Remote
+- **Duration:** August 2024 - Current
+
+### JAMstack Developer Intern
+- **Company:** [WeFrameTech](https://www.weframetech.com/)
+- **Location:** Remote
+- **Duration:** June 2024 - July 2024
+- **Key Responsibilities:**
+  - Learned and worked with headless CMS like Directus and MedusaJS.
+  - Integrated CMS using APIs and Node.js to enhance website functionality and performance.
+
+---
+
+## 🚀 Projects
+### [NoviConnect-ChatApp](https://github.com/009-KumarJi/NoviConnect) 
+- **Deployed Demo:** [NoviConnect Client](https://noviconnect-client.vercel.app/)
+- **Description:** Developed a dynamic chat application to facilitate seamless communication with features designed to enhance user experience:
+  - **Real-time Messaging:** Implemented a robust messaging system using Socket.IO for efficient data exchange.
+  - **User Interface Design:** Designed an intuitive user interface with Material-UI, enhancing user engagement.
+  - **Group Chat Functionality:** Added group chat functionality and user online status badges to improve interaction.
+  - **Authentication:** Integrated authentication features using JWT to secure user sessions.
+  - **Database Optimization:** Optimized database queries for faster retrieval of messages and user data.
+  - **Deployment:** Deployed the application using Vercel and Render, ensuring high availability and scalability.
+  - **Tech Stack:** MaterialUI with ReactJS, Expressjs with Node.js, MongoDB, Socket.IO.
+
+### [Inventory Management](https://github.com/009-KumarJi/inventory-management)
+- **Description:** Designed a Python-based inventory management system to streamline inventory control:
+  - **Product Management:** Enabled product handling and data management with MySQL.
+  - **User Interface:** Developed a user-friendly interface using Bootstrap.
+  - **Tech Stack:** Python (Flask), MySQL, HTML, CSS.
+
+### [Article - Content Management System](https://www.github.com/009-KumarJi/article_cms)
+- **Description:** Created a backend system of CMS to manage articles and blog posts:
+  - **Article Management:** Enabled article creation, editing, and deletion.
+  - **User Authentication:** Implemented user authentication and authorization.
+  - **Role-based Access Control:** Assigned roles to users for different levels of access.
+    - User: Can only read articles.
+    - Moderator: Can read and edit articles.
+    - Admin: Can read, edit, and delete articles.
+  - **Tech Stack:** Node.js, Express.js, MongoDB, cloudinary (cloud service).
 
 ---
 
@@ -48,42 +94,6 @@
 - **OS Command Line Familiarity:** 
   - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 🚀 Projects
-### [NoviConnect-ChatApp](https://github.com/009-KumarJi/NoviConnect) 
-- **Deployed Demo:** [NoviConnect Client](https://noviconnect-client.vercel.app/)
-- **Description:** Developed a dynamic chat application to facilitate seamless communication with features designed to enhance user experience:
-  - **Real-time Messaging:** Implemented a robust messaging system using Socket.IO for efficient data exchange.
-  - **User Interface Design:** Designed an intuitive user interface with Material-UI, enhancing user engagement.
-  - **Group Chat Functionality:** Added group chat functionality and user online status badges to improve interaction.
-  - **Authentication:** Integrated authentication features using JWT to secure user sessions.
-  - **Database Optimization:** Optimized database queries for faster retrieval of messages and user data.
-  - **Deployment:** Deployed the application using Vercel and Render, ensuring high availability and scalability.
-  - **Tech Stack:** MaterialUI with ReactJS, Expressjs with Node.js, MongoDB, Socket.IO.
-
-### [Inventory Management](https://github.com/009-KumarJi/inventory-management)
-- **Description:** Designed a Python-based inventory management system to streamline inventory control:
-  - **Product Management:** Enabled product handling and data management with MySQL.
-  - **User Interface:** Developed a user-friendly interface using Bootstrap.
-  - **Tech Stack:** Python (Flask), MySQL, HTML, CSS.
-
----
-
-## 🛠️ Work Experience
-### Full Stack Developer Intern
-- **Company:** [Envint Global](https://envintglobal.com/)
-- **Location:** Remote
-- **Duration:** August 2024 - Current
-
-### JAMstack Developer Intern
-- **Company:** [WeFrameTech](https://www.weframetech.com/)
-- **Location:** Remote
-- **Duration:** June 2024 - July 2024
-- **Key Responsibilities:**
-  - Learned and worked with headless CMS like Directus and MedusaJS.
-  - Integrated CMS using APIs and Node.js to enhance website functionality and performance.
 
 ---
 
