@@ -29,6 +29,9 @@
 - **Company:** [Envint Global](https://envintglobal.com/)
 - **Location:** Remote
 - **Duration:** August 2024 - Current
+- **Key Responsibilities:**
+  - Implemented JWT authentication.
+  - Implemented RBAC on backend
 
 ### JAMstack Developer Intern
 - **Company:** [WeFrameTech](https://www.weframetech.com/)
