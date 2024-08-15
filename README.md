@@ -10,20 +10,6 @@
 
 ---
 
-## 🎓 Education
-### Institute of Engineering & Technology, Devi Ahilya Vishwavidyalaya
-- **Location:** Indore, MP, India
-- **Degree:** Bachelors of Engineering
-- **CGPA:** 7.26
-- **Duration:** Oct 2021 - May 2025
-
-### DAV ACC Public School
-- **Location:** Katni, MP, India
-- **HSC:** 81% (Oct 2020)
-- **SSC:** 86% (Apr 2018)
-
----
-
 ## 🛠️ Work Experience
 ### Full Stack Developer Intern
 - **Company:** [Envint Global](https://envintglobal.com/)
@@ -40,6 +26,20 @@
 - **Key Responsibilities:**
   - Learned and worked with headless CMS like Directus and MedusaJS.
   - Integrated CMS using APIs and Node.js to enhance website functionality and performance.
+
+---
+
+## 🎓 Education
+### Institute of Engineering & Technology, Devi Ahilya Vishwavidyalaya
+- **Location:** Indore, MP, India
+- **Degree:** Bachelors of Engineering
+- **CGPA:** 7.26
+- **Duration:** Oct 2021 - May 2025
+
+### DAV ACC Public School
+- **Location:** Katni, MP, India
+- **HSC:** 81% (Oct 2020)
+- **SSC:** 86% (Apr 2018)
 
 ---
 
