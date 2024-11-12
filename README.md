@@ -14,18 +14,18 @@
 ### Full Stack Developer Intern
 - **Company:** [Envint Global](https://envintglobal.com/)
 - **Location:** Remote
-- **Duration:** August 2024 - Current
+- **Duration:** August 2024 - November 2024
 - **Key Responsibilities:**
-  - Implemented JWT authentication.
-  - Implemented RBAC on backend
+  - Developed a backend base for a new project from scratch, enabling future expansion.
+  - Implemented JWT-based authentication and integrated role-based access control (RBAC) for secure data access.
 
 ### JAMstack Developer Intern
 - **Company:** [WeFrameTech](https://www.weframetech.com/)
 - **Location:** Remote
 - **Duration:** June 2024 - July 2024
 - **Key Responsibilities:**
-  - Learned and worked with headless CMS like Directus and MedusaJS.
-  - Integrated CMS using APIs and Node.js to enhance website functionality and performance.
+  - Worked with headless CMS (Directus, MedusaJS) to optimize site performance and functionality.
+  - Enhanced content management integration through API-driven architecture with Node.js.
 
 ---
 
@@ -101,6 +101,7 @@
 ---
 
 ## 🎯 Extracurricular Activities
+- **Organizer:** RAAS 2K24 - IET Garba Fest
 - **Sponsorship Coordinator:** FeedBox Club (Mar 2023 - Present)
 - **Sponsorship Head Coordinator and Core Member:** Invento - Tech Fest IET DAVV 2K23
 - **Event and Sponsorship Coordinator:** TEDxDAVV 2K23
